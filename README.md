@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React Native](https://facebook.github.io/react-native/)
-- [API do Sujeito Proramador (https://sujeitoprogramador.com.br/)
+- [API do Sujeito Programador (https://sujeitoprogramador.com.br/)
 
 ## 💻 Projeto
 
