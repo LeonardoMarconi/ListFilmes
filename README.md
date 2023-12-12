@@ -1,4 +1,9 @@
 # List Filmes 🎞🎥
+![GitHub repo size](https://img.shields.io/github/repo-size/LeonardoMarconi/ListFilmes?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/LeonardoMarconi/ListFilmes?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/LeonardoMarconi/ListFilmes?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LeonardoMarconi/ListFilmes?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/LeonardoMarconi/ListFilmes?style=for-the-badge)
 
 App List Filmes
 
